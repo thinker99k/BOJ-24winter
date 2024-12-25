@@ -1,3 +1,7 @@
+/**
+ * https://chanhuiseok.github.io/posts/improve-6/ 참고
+ */
+
 #include <iostream>
 
 using namespace std;
