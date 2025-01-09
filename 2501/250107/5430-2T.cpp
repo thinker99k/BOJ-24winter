@@ -20,9 +20,8 @@ void ac(deque<int> *d) {
     int wherestart = 0; // 일단 앞에서부터 시작한다 가정
     
     int dsize = (int)d->size();
-    int len = strlen(p);
     
-    for (int i = 0; i < len; i++) {
+    for (int i = 0; i < strlen(p); i++) {
         if (p[i] == 'R') {  // 시작점 뒤집기
             wherestart = !wherestart;
         }
