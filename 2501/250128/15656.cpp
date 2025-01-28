@@ -21,7 +21,6 @@ void backtrack(int level, int start) {
     }
     else {
         for (int i = 0; i < n; i++) {
-            
             comb.push_back(i);
             checked[i] = true;
             
