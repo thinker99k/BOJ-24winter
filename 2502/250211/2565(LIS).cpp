@@ -22,7 +22,7 @@ int lis() {
     for (int i = 1; i <= n; i++) {
         for (int j = 0; j <= i - 1; j++) {
             if (v[j].second < v[i].second) {
-                dp[i] = max(dp[i], dp[j]+1);
+                dp[i] = max(dp[i], dp[j]+1); // 지금까지 알려진 최대 길이, 마지막이 j->i로 가는 길이
             }
         }
         
