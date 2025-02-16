@@ -44,8 +44,6 @@ int lis() {
 int main() {
     cin >> n;
     
-    v.push_back({0, 0});
-    
     int a, b;
     for (int i = 0; i < n; i++) {
         cin >> a >> b;
