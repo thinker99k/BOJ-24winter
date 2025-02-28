@@ -1,5 +1,5 @@
 # BOJ-24winter
-<img src="https://raw.githubusercontent.com/kitsune03k/BOJ-24winter/main/Gold1.png" width="40%" height="40%">
+<img src="https://raw.githubusercontent.com/kitsune03k/BOJ-24winter/refs/heads/main/Gold1.png" width="40%" height="40%">
 24.12.19 : 1027 (Gold IV) -> 25.02.28 (Gold I)
 
 ## 1. 맞은 문제
