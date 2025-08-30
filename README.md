@@ -1,5 +1,6 @@
 # BOJ-24winter
 <img src="https://raw.githubusercontent.com/thinker99k/BOJ-24winter/refs/heads/main/Gold1.png" width="400px">
+
 24.12.19 : 1027 (Gold IV)\
 -> 25.02.28 : 1414 (Gold I)
 
